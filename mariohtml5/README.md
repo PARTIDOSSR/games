@@ -23,6 +23,8 @@
    ```
 4. Ahora puedes acceder a la aplicación a través de tu navegador web en la siguiente [URL](http://localhost:8080).
 
+   Puede Fallar asique usar el del principal.
+
 
  Eso es todo lo que necesitas para ejecutar el juego utilizando Docker. Si necesitas detener la ejecución de la aplicación, puedes presionar CTRL+C en la terminal donde está ejecutándose el contenedor. 
    
